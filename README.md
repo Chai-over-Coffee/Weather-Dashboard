@@ -32,6 +32,10 @@ Welcome to the Weather Forecast Dashboard project! This application allows users
 - **User-Friendly:** Intuitive user interface with clear error handling for non-existent city names.
 - **Code Quality:** Well-structured, maintainable, and follows best practices.
 
+## API Integration
+
+-**key used**: "4403a560c7b0220373ef188d8eb454e4"
+
 ## Screens
 
 ### Desktop View
