@@ -38,17 +38,10 @@ Welcome to the Weather Forecast Dashboard project! This application allows users
 
 ## Screens
 
-### Desktop View
+![image](https://github.com/user-attachments/assets/bd57161b-9d3c-46a7-a198-7be95ef0130b)
+ - **If put wrong city name** : ![image](https://github.com/user-attachments/assets/d8a29b4b-e588-4155-8b84-fe8a796ce1bc)
 
-![Desktop View](./screens/desktop.png)
 
-### Tablet View
-
-![Tablet View](./screens/tablet.png)
-
-### Mobile View
-
-![Mobile View](./screens/mobile.png)
 
 ## Installation
 
