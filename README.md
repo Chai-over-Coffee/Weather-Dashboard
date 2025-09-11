@@ -48,7 +48,7 @@ Welcome to the Weather Forecast Dashboard project! This application allows users
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Abhijitkr/weather-forecast-dashboard.git
+   git clone https://github.com/Chai-over-Coffee/weather-forecast-dashboard.git
    ```
 
 2. Navigate to the directory:
